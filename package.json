@@ -1,0 +1,11 @@
+{
+  "name": "hania360-home",
+  "private": true,
+  "scripts": {
+    "test": "node tests/links.test.mjs",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
